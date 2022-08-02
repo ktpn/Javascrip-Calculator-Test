@@ -1,1 +1,1 @@
-# Javascrip-Calculator-Test
+# Javascript-Calculator-Test
